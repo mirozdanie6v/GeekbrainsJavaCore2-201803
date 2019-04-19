@@ -16,7 +16,7 @@ public class CalcApplication {
             String operation = scn.nextLine();
             switch (operation) {
                 default:
-                    System.out.println("Не очень коректная операция:" + operation);
+                    System.out.println("Не очень коректная эта операция:" + operation);
             }
         }
     }
